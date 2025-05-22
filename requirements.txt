@@ -1,0 +1,15 @@
+# TalkSafe: Culturally-Sensitive Mental Health Chatbot
+# Optimized for minimal memory usage and maximum performance
+
+# Core framework
+streamlit>=1.28.0
+
+# Optional dependencies for future enhancements:
+# requests>=2.28.0          # For API integrations (WhatsApp, SMS)
+# pandas>=1.5.0             # For mood tracking analytics
+# plotly>=5.0.0             # For mood visualization charts
+# twilio>=8.0.0             # For SMS integration
+# firebase-admin>=6.0.0     # For anonymous user data storage
+
+# Note: Current implementation uses only standard Python libraries
+# to minimize memory footprint and deployment complexity
